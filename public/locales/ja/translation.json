@@ -1,0 +1,129 @@
+{
+  "home": {
+    "title": "ゴガラシドットコムへようこそ！",
+    "description": "このページは認証ユーザーのみがアクセス可能なPrivateRoutesで保護されたページです。"
+  },
+  "header": {
+    "siteName": "5garashi.com",
+    "welcome": "React、TypeScript、RechartsでSPAを実装しています。 "
+  },
+  "nav": {
+    "home": "Home",
+    "profile": "Profile",
+    "recharts": "Rechart",
+    "rechartsDashboard": "Recharts"
+  },
+  "language": {
+    "switchTo_en": "English",
+    "switchTo_ja": "日本語"
+  },
+
+  "forgotPassword": {
+    "title": "パスワードをお忘れですか？",
+    "emailLabel": "メールアドレス",
+    "emailPlaceholder": "メールアドレス",
+    "submit": "リセットリンクを送信",
+    "success": "パスワードリセット用のメールを送信しました。",
+    "error": "メール送信に失敗しました。メールアドレスをご確認ください。"
+  },
+  "login": {
+    "emailLabel": "メールアドレス",
+    "emailPlaceholder": "メールアドレスを入力...",
+    "passwordLabel": "パスワード",
+    "passwordPlaceholder": "パスワードを入力...",
+    "loginButton": "ログイン",
+    "forgotPassword": "パスワードをお忘れですか？",
+    "noAccount": "アカウント登録",
+    "register": "新規登録",
+    "or": "または",
+    "googleLogin": "Googleでログイン-工事中",
+    "logout": "ログアウト",
+    "fullLogout": "完全にログアウト（Appwrite & Google）"
+  },
+    "logout": {
+    "thankYou": "ご利用ありがとうございました。",
+    "backToLogin": "ログインページに戻る"
+  },
+  "oauthCallback": {
+    "processing": "OAuth認証を処理中です…",
+    "failed": "OAuth認証に失敗しました"
+  },
+  "profile": {
+    "welcome": "このページは認証ユーザーのみがアクセス可能です。"
+  },
+  "chart": {
+    "title": "Recharts のサンプルグラフ",
+    "labels": {
+      "mon": "月",
+      "tue": "火",
+      "wed": "水",
+      "thu": "木",
+      "fri": "金"
+    }
+  },
+  "register": {
+    "name": "名前",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "confirmPassword": "パスワード（確認）",
+    "submit": "登録",
+    "already": "すでにアカウントをお持ちですか？",
+    "login": "ログイン",
+    "placeholder": {
+      "name": "名前を入力してください",
+      "email": "メールアドレスを入力してください",
+      "password": "パスワードを入力してください",
+      "confirmPassword": "もう一度パスワードを入力してください"
+    },
+    "passwordMismatch": "パスワードが一致しません"
+  },
+  "resetPassword": {
+    "title": "新しいパスワードを入力してください",
+    "newPassword": "新しいパスワード",
+    "confirmPassword": "パスワード再入力",
+    "placeholder": {
+      "newPassword": "新しいパスワード",
+      "confirmPassword": "パスワード再入力"
+    },
+    "submit": "パスワードを変更する",
+    "mismatch": "パスワードが一致しません",
+    "success": "パスワードが変更されました",
+    "error": "パスワードの変更に失敗しました"
+  },
+  "verify": {
+    "verifying": "確認中...",
+    "success": "メールアドレスが認証されました。ログインページへ移動します...",
+    "failure": "認証に失敗しました",
+    "invalid_link": "無効な認証リンクです。"
+  },
+    "auth": {
+    "logout": "Logout",
+    "fullLogout": "Full LogOut",
+    "loading": "読み込み中...",
+    "emailNotVerified": "メール認証が未完了です。メールをご確認ください。",
+    "loginFailed": "ログイン失敗",
+    "verificationMailSent": "認証メールを送信しました。登録を完了させてください。",
+    "verificationMailResent": "認証メールを再送信しました。",
+    "emailAlreadyVerified": "このメールアドレスはすでに認証済みです。ログインしてください。",
+    "existingUserLoginFailed": "既存ユーザーのログインに失敗しました。",
+    "registrationFailed": "登録に失敗しました",
+    "logoutFailed": "ログアウト失敗",
+    "passwordResetMailSent": "パスワードリセット用メールを送信しました。",
+    "mailSendFailedWithReason": "メール送信失敗",
+    "mailSendFailed": "メール送信に失敗しました。メールアドレスをご確認ください。",
+    "passwordResetSuccess": "パスワードがリセットされました。ログインしてください。",
+    "passwordResetFailed": "リセット失敗"
+  },
+    "charts": {
+        "title": "グラフの種類はいろいろあります"
+ }
+}
+
+
+
+
+
+
+
+
+

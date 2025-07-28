@@ -1,0 +1,133 @@
+{
+  "home": {
+    "title": "Welcome to 5garashi.com!",
+    "description": "This page should be protected by a PrivateRoutes component for authenticated users"
+  }
+,
+  "header": {
+    "siteName": "5garashi.com",
+    "welcome": "An SPA Experience with React, TypeScript, and Recharts"
+  },
+  "nav": {
+    "home": "Home",
+    "profile": "Profile",
+    "recharts": "Rechart",
+    "rechartsDashboard": "Recharts"
+  
+  },
+  "language": {
+    "switchTo_en": "English",
+    "switchTo_ja": "日本語"
+  },
+  "forgotPassword": {
+    "title": "Forgot your password?",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "Email Address",
+    "submit": "Send Reset Link",
+    "success": "Password reset email sent successfully.",
+    "error": "Failed to send email. Please check the address."
+  },
+  "login": {
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter email...",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter password...",
+    "loginButton": "Login",
+    "forgotPassword": "Forgot your password?",
+    "noAccount": "Don't have an account?",
+    "register": "Register",
+    "or": "or",
+    "googleLogin": "Sign in with Google - Coming Soon",
+    "logout": "Log out",
+    "fullLogout": "Fully Log Out (Appwrite & Google)"
+  },
+  "logout": {
+    "thankYou": "Thank you for using our service.",
+    "backToLogin": "Return to Login Page"
+  },
+  "oauthCallback": {
+    "processing": "Processing OAuth authentication…",
+    "failed": "OAuth authentication failed"
+  },
+  "profile": {
+    "welcome": "This is a protected page for authenticated users."
+  },
+  "chart": {
+    "title": "Sample Recharts Graph",
+    "labels": {
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri"
+    }
+  },
+  "register": {
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submit": "Register",
+    "already": "Already have an account?",
+    "login": "Login",
+    "placeholder": {
+      "name": "Enter name...",
+      "email": "Enter email...",
+      "password": "Enter password...",
+      "confirmPassword": "Confirm password..."
+    },
+    "passwordMismatch": "Passwords did not match!"
+  },
+  "resetPassword": {
+    "title": "Enter your new password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "placeholder": {
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm your password"
+    },
+    "submit": "Change Password",
+    "mismatch": "Passwords do not match",
+    "success": "Password has been changed",
+    "error": "Failed to change password"
+  },
+  "verify": {
+    "verifying": "Verifying...",
+    "success": "Email verified successfully! Redirecting...",
+    "failure": "Verification failed",
+    "invalid_link": "Invalid verification link."
+  },
+  "auth": {
+    "logout": "Logout",
+    "fullLogout": "Full LogOut",
+    "loading": "Loading...",
+    "emailNotVerified": "Email not verified. Please check your inbox.",
+    "loginFailed": "Login failed",
+    "verificationMailSent": "Verification email sent. Please complete registration.",
+    "verificationMailResent": "Verification email re‑sent.",
+    "emailAlreadyVerified": "This email is already verified. Please log in.",
+    "existingUserLoginFailed": "Login for existing user failed.",
+    "registrationFailed": "Registration failed",
+    "logoutFailed": "Logout failed",
+    "passwordResetMailSent": "Password‑reset email sent.",
+    "mailSendFailedWithReason": "Mail send failed",
+    "mailSendFailed": "Failed to send email. Please check the address.",
+    "passwordResetSuccess": "Password has been reset. Please log in.",
+    "passwordResetFailed": "Password‑reset failed"
+  },
+    "charts": {
+        "title": "Various types of charts are available"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
